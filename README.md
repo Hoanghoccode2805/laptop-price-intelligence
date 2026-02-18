@@ -9,7 +9,7 @@ This project demonstrates a "Full-stack Data" approach, utilizing Python for bac
 # Key Insights & Visualizations
 
 ### 1. Market Share by Brand
-*Asus dominates the inventory, followed by Apple and HP. This suggests a high demand for varied consumer electronics and premium devices.*
+*The analysis reveals that Apple and Asus are the clear market leaders in terms of available inventory. Together, they dominate the dataset, suggesting a polarized market that focuses heavily on both high-end productivity devices (Apple) and versatile consumer electronics (Asus). HP follows as a distant third.*
 
 ![Market Share Graph](notebooks/01_market_share_by_brand.png)
 
