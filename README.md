@@ -8,21 +8,24 @@ This project demonstrates a "Full-stack Data" approach, utilizing Python for bac
 
 # Key Insights & Visualizations
 
-1. Market Share by Brand
-Asus dominates the inventory, followed by Apple and HP. This suggests a high demand for varied consumer electronics and premium devices.
+### 1. Market Share by Brand
+*Asus dominates the inventory, followed by Apple and HP. This suggests a high demand for varied consumer electronics and premium devices.*
+
 ![Market Share Graph](notebooks/01_market_share_by_brand.png)
 
 ---
-2. Price Segmentation
-Apple consistently occupies the premium segment with the highest median price, while Acer and HP cater to the budget-friendly market.
+
+### 2. Price Segmentation
+*Apple consistently occupies the premium segment with the highest median price, while Acer and HP cater to the budget-friendly market.*
+
 ![Price Distribution Graph](notebooks/02_price_distribution_boxplot.png)
 
 ---
-3. Price vs. Configuration (RAM)
-There is a strong positive correlation between RAM and Price. 16GB has become the market standard.
-![RAM vs Price Correlation](notebooks/03_ram_price_correlation.png)
 
----
+### 3. Price vs. Configuration (RAM)
+*There is a strong positive correlation between RAM and Price. 16GB has become the market standard.*
+
+![RAM vs Price Correlation](notebooks/03_ram_price_correlation.png)
 # Usage
 
 1. Run Scraping: python src/01_web_scraping.py
